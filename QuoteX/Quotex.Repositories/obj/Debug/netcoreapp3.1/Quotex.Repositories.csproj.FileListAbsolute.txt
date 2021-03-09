@@ -1,0 +1,16 @@
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\bin\Debug\netcoreapp3.1\Quotex.Repositories.deps.json
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\bin\Debug\netcoreapp3.1\Quotex.Repositories.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\bin\Debug\netcoreapp3.1\Quotex.Repositories.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\obj\Debug\netcoreapp3.1\Quotex.Repositories.csprojAssemblyReference.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\obj\Debug\netcoreapp3.1\Quotex.Repositories.AssemblyInfoInputs.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\obj\Debug\netcoreapp3.1\Quotex.Repositories.AssemblyInfo.cs
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\obj\Debug\netcoreapp3.1\Quotex.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\obj\Debug\netcoreapp3.1\Quotex.Repositories.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\obj\Debug\netcoreapp3.1\Quotex.Repositories.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\bin\Debug\netcoreapp3.1\QuoteX.Data.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\bin\Debug\netcoreapp3.1\Quotex.DomainModels.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\bin\Debug\netcoreapp3.1\Quotex.Entities.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\bin\Debug\netcoreapp3.1\QuoteX.Data.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\bin\Debug\netcoreapp3.1\Quotex.DomainModels.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\bin\Debug\netcoreapp3.1\Quotex.Entities.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Repositories\obj\Debug\netcoreapp3.1\Quotex.Repositories.csproj.CopyComplete

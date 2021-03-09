@@ -1,0 +1,59 @@
+﻿@{
+}
+@using X.PagedList.Mvc.Core;
+@using X.PagedList;
+
+<div class="alert alert-success" role="alert" hidden>
+    The quote has been successfully approved.
+</div>
+
+<div class="alert alert-info" role="alert" hidden>
+    The quote has been successfully deleted.
+</div>
+
+@{var quoteList = ViewBag.OnePageOfQuotes as IEnumerable<Quotex.Entities.Quote>;
+
+    if (!quoteList.Any())
+    {
+        <div class="alert alert-danger" role="alert">
+            <strong>No results found.</strong> <a href="javascript:history.go(-1)" class="alert-link">Go back to previous page</a>
+        </div>
+    }
+    else
+    {
+        <h2>List of Quotes</h2>
+            <table class="table">
+                <tr>
+                    <th scope="col">Text</th>
+                    <th scope="col">Choose an action</th>
+                </tr>
+                @foreach (var product in ViewBag.OnePageOfQuotes)
+                {
+                    <tr>
+                        <td>@product.Text</td>
+                        <td>
+                            <form asp-action="ApproveQuote" asp-route-id="@product.Id" style="display:inline-block;" data-ajax="true" data-ajax-success="approveItem(this)">
+                                <button type="submit" class="btn btn-sm btn-success d-none d-md-inline-block">
+                                    Approve
+                                </button>
+                            </form>
+                            <form asp-action="RemoveQuote" asp-route-id="@product.Id" style="display:inline-block;" data-ajax="true" data-ajax-success="deleteItem(this)">
+                                <button type="submit" class="btn btn-sm btn-danger d-none d-md-inline-block">
+                                    Delete
+                                </button>
+                            </form>
+                        </td>
+                    </tr> 
+                }
+            </table>
+    }
+}
+<div style="text-align:center;">
+    @Html.PagedListPager((IPagedList)ViewBag.OnePageOfQuotes, page => Url.Action("GetQuotes", new { page = page }),
+        new PagedListRenderOptionsBase
+        {
+            LiElementClasses = new string[] { "page-item" },
+            PageClasses = new string[] { "page-link" }
+        })
+</div>
+

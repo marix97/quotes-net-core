@@ -1,0 +1,12 @@
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\bin\Debug\netcoreapp3.1\Quotex.Entities.deps.json
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\bin\Debug\netcoreapp3.1\Quotex.Entities.runtimeconfig.json
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\bin\Debug\netcoreapp3.1\Quotex.Entities.runtimeconfig.dev.json
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\bin\Debug\netcoreapp3.1\Quotex.Entities.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\bin\Debug\netcoreapp3.1\Quotex.Entities.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\obj\Debug\netcoreapp3.1\Quotex.Entities.csprojAssemblyReference.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\obj\Debug\netcoreapp3.1\Quotex.Entities.AssemblyInfoInputs.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\obj\Debug\netcoreapp3.1\Quotex.Entities.AssemblyInfo.cs
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\obj\Debug\netcoreapp3.1\Quotex.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\obj\Debug\netcoreapp3.1\Quotex.Entities.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\obj\Debug\netcoreapp3.1\Quotex.Entities.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.Entities\obj\Debug\netcoreapp3.1\Quotex.Entities.genruntimeconfig.cache

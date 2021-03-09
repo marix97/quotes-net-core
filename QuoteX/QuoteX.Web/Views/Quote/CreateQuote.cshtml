@@ -1,0 +1,22 @@
+﻿@{
+}
+<div class="alert alert-success" role="alert" hidden>
+    <h4 class="alert-heading">Successfully sent!</h4>
+    <p>Your quote has been successfully sent and saved. An Administrator needs to accept it now in order for it to be drawable by other users in our website.</p>
+    <hr>
+    <p class="mb-0">Thank you for sending us your quote. Have a great day!</p>
+</div>
+<div class="alert alert-danger" role="alert" hidden>
+    <h4 class="alert-heading">An error occured!</h4>
+    <p>Your quote hasn't been successfully sent and an error occured on the server side.</p>
+    <hr>
+    <p class="mb-0">Please try again later or contact us so we can fix this issue.</p>
+</div>
+<div class="input-group">
+    <div class="input-group-prepend">
+        <span class="input-group-text">Type your quote here</span>
+    </div>
+    <textarea class="form-control" id="create-quote-textarea" maxlength="256" aria-label="With textarea" placeholder="Minimum length of the quote is 10"></textarea>
+</div>
+<div id="count-characters-quote" style="color: red;"></div>
+<button type="button" class="btn btn-primary btn-lg" id="send-quote-button">Send quote</button>

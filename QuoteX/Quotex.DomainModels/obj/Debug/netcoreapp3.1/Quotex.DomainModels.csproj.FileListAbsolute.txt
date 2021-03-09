@@ -1,0 +1,12 @@
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\bin\Debug\netcoreapp3.1\Quotex.DomainModels.deps.json
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\bin\Debug\netcoreapp3.1\Quotex.DomainModels.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\bin\Debug\netcoreapp3.1\Quotex.DomainModels.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\obj\Debug\netcoreapp3.1\Quotex.DomainModels.csprojAssemblyReference.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\obj\Debug\netcoreapp3.1\Quotex.DomainModels.AssemblyInfoInputs.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\obj\Debug\netcoreapp3.1\Quotex.DomainModels.AssemblyInfo.cs
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\obj\Debug\netcoreapp3.1\Quotex.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\obj\Debug\netcoreapp3.1\Quotex.DomainModels.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\obj\Debug\netcoreapp3.1\Quotex.DomainModels.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\bin\Debug\netcoreapp3.1\Quotex.Entities.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\bin\Debug\netcoreapp3.1\Quotex.Entities.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\Quotex.DomainModels\obj\Debug\netcoreapp3.1\Quotex.DomainModels.csproj.CopyComplete

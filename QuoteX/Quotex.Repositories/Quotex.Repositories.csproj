@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuoteX.Data\QuoteX.Data.csproj" />
+    <ProjectReference Include="..\Quotex.DomainModels\Quotex.DomainModels.csproj" />
+    <ProjectReference Include="..\Quotex.Entities\Quotex.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

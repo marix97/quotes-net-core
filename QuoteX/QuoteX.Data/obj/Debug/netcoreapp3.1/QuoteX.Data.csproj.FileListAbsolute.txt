@@ -1,0 +1,15 @@
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\bin\Debug\netcoreapp3.1\QuoteX.Data.deps.json
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\bin\Debug\netcoreapp3.1\QuoteX.Data.runtimeconfig.json
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\bin\Debug\netcoreapp3.1\QuoteX.Data.runtimeconfig.dev.json
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\bin\Debug\netcoreapp3.1\QuoteX.Data.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\bin\Debug\netcoreapp3.1\QuoteX.Data.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\bin\Debug\netcoreapp3.1\Quotex.Entities.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\bin\Debug\netcoreapp3.1\Quotex.Entities.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\obj\Debug\netcoreapp3.1\QuoteX.Data.csprojAssemblyReference.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\obj\Debug\netcoreapp3.1\QuoteX.Data.AssemblyInfoInputs.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\obj\Debug\netcoreapp3.1\QuoteX.Data.AssemblyInfo.cs
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\obj\Debug\netcoreapp3.1\QuoteX.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\obj\Debug\netcoreapp3.1\QuoteX.Data.csproj.CopyComplete
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\obj\Debug\netcoreapp3.1\QuoteX.Data.dll
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\obj\Debug\netcoreapp3.1\QuoteX.Data.pdb
+C:\Users\Mihail\Desktop\QuoteList\QuoteX\QuoteX.Data\obj\Debug\netcoreapp3.1\QuoteX.Data.genruntimeconfig.cache

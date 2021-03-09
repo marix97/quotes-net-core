@@ -1,0 +1,366 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Domain\\Quotex.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\QuoteX.Data\\QuoteX.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\QuoteX.Data\\QuoteX.Data.csproj",
+        "projectName": "QuoteX.Data",
+        "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\QuoteX.Data\\QuoteX.Data.csproj",
+        "packagesPath": "C:\\Users\\Mihail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\QuoteX.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mihail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Entities\\Quotex.Entities.csproj": {
+                "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Entities\\Quotex.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.DomainModels\\Quotex.DomainModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.DomainModels\\Quotex.DomainModels.csproj",
+        "projectName": "Quotex.DomainModels",
+        "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.DomainModels\\Quotex.DomainModels.csproj",
+        "packagesPath": "C:\\Users\\Mihail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.DomainModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mihail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Entities\\Quotex.Entities.csproj": {
+                "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Entities\\Quotex.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Domain\\Quotex.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Domain\\Quotex.Domain.csproj",
+        "projectName": "Quotex.Domain",
+        "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Domain\\Quotex.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mihail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mihail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Repositories\\Quotex.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Repositories\\Quotex.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Entities\\Quotex.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Entities\\Quotex.Entities.csproj",
+        "projectName": "Quotex.Entities",
+        "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Entities\\Quotex.Entities.csproj",
+        "packagesPath": "C:\\Users\\Mihail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mihail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Repositories\\Quotex.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Repositories\\Quotex.Repositories.csproj",
+        "projectName": "Quotex.Repositories",
+        "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Repositories\\Quotex.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Mihail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mihail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\QuoteX.Data\\QuoteX.Data.csproj": {
+                "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\QuoteX.Data\\QuoteX.Data.csproj"
+              },
+              "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.DomainModels\\Quotex.DomainModels.csproj": {
+                "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.DomainModels\\Quotex.DomainModels.csproj"
+              },
+              "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Entities\\Quotex.Entities.csproj": {
+                "projectPath": "C:\\Users\\Mihail\\Desktop\\QuoteList\\QuoteX\\Quotex.Entities\\Quotex.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

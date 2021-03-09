@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteX.Web", "QuoteX.Web\QuoteX.Web.csproj", "{872F9C26-AA7C-47C7-B12D-91573AF11203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteX.Data", "QuoteX.Data\QuoteX.Data.csproj", "{93350DD3-4A46-4DBF-A4AC-1B3676CBE0A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotex.Domain", "Quotex.Domain\Quotex.Domain.csproj", "{3B27262C-D593-4C6A-BEA5-9C022FC88B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotex.DomainModels", "Quotex.DomainModels\Quotex.DomainModels.csproj", "{91F1F0F4-2459-4675-AD6F-629628CCCCD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotex.Repositories", "Quotex.Repositories\Quotex.Repositories.csproj", "{E5FC8AAA-E985-4A58-B79B-CF7C8A098B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotex.Entities", "Quotex.Entities\Quotex.Entities.csproj", "{9092BEBF-0800-45B5-83F5-D9894F017FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{872F9C26-AA7C-47C7-B12D-91573AF11203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872F9C26-AA7C-47C7-B12D-91573AF11203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872F9C26-AA7C-47C7-B12D-91573AF11203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872F9C26-AA7C-47C7-B12D-91573AF11203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93350DD3-4A46-4DBF-A4AC-1B3676CBE0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93350DD3-4A46-4DBF-A4AC-1B3676CBE0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93350DD3-4A46-4DBF-A4AC-1B3676CBE0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93350DD3-4A46-4DBF-A4AC-1B3676CBE0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B27262C-D593-4C6A-BEA5-9C022FC88B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B27262C-D593-4C6A-BEA5-9C022FC88B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B27262C-D593-4C6A-BEA5-9C022FC88B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B27262C-D593-4C6A-BEA5-9C022FC88B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F1F0F4-2459-4675-AD6F-629628CCCCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F1F0F4-2459-4675-AD6F-629628CCCCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F1F0F4-2459-4675-AD6F-629628CCCCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F1F0F4-2459-4675-AD6F-629628CCCCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FC8AAA-E985-4A58-B79B-CF7C8A098B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FC8AAA-E985-4A58-B79B-CF7C8A098B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FC8AAA-E985-4A58-B79B-CF7C8A098B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FC8AAA-E985-4A58-B79B-CF7C8A098B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9092BEBF-0800-45B5-83F5-D9894F017FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9092BEBF-0800-45B5-83F5-D9894F017FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9092BEBF-0800-45B5-83F5-D9894F017FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9092BEBF-0800-45B5-83F5-D9894F017FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC21BD12-5335-40B4-8775-3401A451E4BE}
+	EndGlobalSection
+EndGlobal
