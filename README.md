@@ -7,7 +7,7 @@ Simple ASP.NET Core MVC application for creating and drawing quotes from a datab
 Users must be registered and authenticated in order to have access to the main functionality of the application.
 There are two roles in the application as an user with the role of Admin is created upon the creation of the database with username and password specified in the DbContext class.
 
-There are two tables in the database with one-to-many relationship. One user can create as quotes as they want.
+There are two tables in the database with one-to-many relationship. One user can create as many quotes as they want.
 There is some basic validation when registering and creating a quote.
 A user with Admin role must approve all quotes sent by the users in order for them to be drawable by the users of the application.
 
